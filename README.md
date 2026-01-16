@@ -5,8 +5,8 @@ VentureScout AI is a multi-agent system designed to automate the preliminary due
 
 **The Crew:**
 1.  **Tech Scout:** Analyzes the product, features, and pricing from the company website.
-2.  **Market Skeptic:** Identifies competitors and evaluates the startup's "moat".
-3.  **Culture Spy:** Scrapes Reddit, Twitter, and review sites for user sentiment.
+2.  **Market Agent:** Identifies competitors and evaluates the startup's "moat".
+3.  **Brand Sentiment Agent:** Scrapes Reddit, Twitter, and review sites for user sentiment.
 4.  **The Partner:** Synthesizes all data into a final "Buy/Pass" recommendation.
 
 **Tools Used:**
